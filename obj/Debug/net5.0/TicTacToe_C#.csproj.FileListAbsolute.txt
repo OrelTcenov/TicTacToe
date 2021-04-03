@@ -1,0 +1,15 @@
+/Users/oreltcenov/Desktop/TicTacToe_C#/bin/Debug/net5.0/TicTacToe_C#.deps.json
+/Users/oreltcenov/Desktop/TicTacToe_C#/bin/Debug/net5.0/TicTacToe_C#.runtimeconfig.json
+/Users/oreltcenov/Desktop/TicTacToe_C#/bin/Debug/net5.0/TicTacToe_C#.runtimeconfig.dev.json
+/Users/oreltcenov/Desktop/TicTacToe_C#/bin/Debug/net5.0/TicTacToe_C#.dll
+/Users/oreltcenov/Desktop/TicTacToe_C#/bin/Debug/net5.0/ref/TicTacToe_C#.dll
+/Users/oreltcenov/Desktop/TicTacToe_C#/bin/Debug/net5.0/TicTacToe_C#.pdb
+/Users/oreltcenov/Desktop/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.csprojAssemblyReference.cache
+/Users/oreltcenov/Desktop/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oreltcenov/Desktop/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.AssemblyInfoInputs.cache
+/Users/oreltcenov/Desktop/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.AssemblyInfo.cs
+/Users/oreltcenov/Desktop/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.csproj.CoreCompileInputs.cache
+/Users/oreltcenov/Desktop/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.dll
+/Users/oreltcenov/Desktop/TicTacToe_C#/obj/Debug/net5.0/ref/TicTacToe_C#.dll
+/Users/oreltcenov/Desktop/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.pdb
+/Users/oreltcenov/Desktop/TicTacToe_C#/obj/Debug/net5.0/TicTacToe_C#.genruntimeconfig.cache
